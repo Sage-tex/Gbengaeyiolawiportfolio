@@ -1,0 +1,40 @@
+.navbar {
+  backdrop-filter: blur(2.5px);
+}
+
+.about {
+  background: linear-gradient(
+    270deg,
+    rgba(174, 134, 37, 0) 0%,
+    #ae8625 48.38%,
+    rgba(174, 134, 37, 0) 100%
+  );
+}
+
+.getintouch {
+  background-image: url("../assets/getintouch.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.background {
+  background-image: url("../assets/gbenga.svg");
+  background-position: right center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media screen and (max-width: 1000px) {
+  .background {
+    background-image: none;
+  }
+}
+.cover {
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 0.2) 0%,
+      rgba(0, 0, 0, 0.2) 100%
+    ),
+    url(<path-to-image>), lightgray 50% / cover no-repeat;
+}
