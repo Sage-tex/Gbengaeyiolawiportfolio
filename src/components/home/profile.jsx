@@ -25,28 +25,28 @@ function HomeProfile() {
         </div>
         <div className="text-center lg:text-start text-white font-poppins text-[15px] lg:text-[20px] mt-[40px] lg:mt-[110px] space-y-[20px]">
           <p>
-            Meet Gbenga, a visionary leader whose journey defies conventional
-            paths and ignites inspiration. As the Chairman of Titan Group, an
-            esteemed conglomerate with diverse interests in Finance,
-            Agriculture, and Real Estate, Gbenga embodies a testament to
-            resilience and unyielding determination.
+          Meet Gbenga, a visionary leader whose unconventional journey ignites inspiration. 
+          As the founder who at different times, served as the Scrum Master, 
+          Head of Business and Business Improvement Director at Titan Group, 
+          a prominent conglomerate with interests in Financial Technology , 
+          Agricultural Technology, and Real Estate Technology, Gbenga embodies
+           resilience and unyielding determination.
           </p>
           <p>
-            Hailing from Osogbo but having lived his early years in Ile-Ife,
-            Nigeria, Gbenga's origins are a far cry from his current stature.
-            His transformative journey commenced at the tender age of 13 when he
-            embraced entrepreneurship as a trader and hawker. Navigating the
-            bustling streets, he bridged the gap between wholesale herbal
-            merchants and local retailers, infusing his sales with personal
-            profit. This budding entrepreneur swiftly earned recognition as
-            "Baba-Leku," the herbal maestro, across the region.
+          Hailing from Osogbo but spending his early years in Ile-Ife, Nigeria, Gbenga's
+           origins starkly contrast with his current stature. His transformative journey 
+           began at 13 when he embraced entrepreneurship, navigating the bustling streets 
+           as a trader and hawker. Bridging the gap between wholesale herbal merchants and local retailers, 
+          he quickly earned the nickname "Baba-Leku," the herbal maestro, across the region.
           </p>
           <p>
-            However, Gbenga's path wasn't marked by a singular rags-to-riches
-            narrative; it was a journey through consistent challenges, learning,
-            and tenacity. Rather than being deterred by failure, Gbenga embraced
-            it as an opportunity for growth, seamlessly integrating each setback
-            into his learning curve.
+           Gbenga's path wasn't a straightforward rags-to-riches narrative but one marked by
+            consistent challenges, learning, and tenacity. Embracing failure as a growth 
+            opportunity, he integrated each setback into his learning curve, evolving from a 
+            young boy with a tray to a respected professional in corporate boardrooms while 
+            consulting for state governments, traditional institutions and becoming a regular
+            go-to person in Agritech for governors, ministers and royalty. 
+           This evolution was underpinned by personal sacrifices and relentless perseverance.
           </p>
           <p>
             His trajectory transformed him from a young boy shouldering a tray
@@ -56,8 +56,12 @@ function HomeProfile() {
             perseverance.
           </p>
           <p>
-            Gbenga grew to become a philanthropist in education, social welfare
-            and environment.
+            As Gbenga's influence expanded, his commitment to societal well-being flourished. 
+            A philanthropist dedicated to education, social welfare, and the environment,
+            he sculpted a legacy of positive change. Recognized for his impact on local food 
+            production, agriculture, and youth employment in Oyo State, Gbenga was honored
+            with the title "Aare Kebimapalu of Ibadan Land" by the Olubadan of Ibadan, Oba Saliu Akanmu Adetunji.
+
           </p>
          
         </div>
@@ -71,53 +75,32 @@ function HomeProfile() {
           </div>
           <div className="w-full lg:flex-1 text-white text-center lg:text-start flex flex-col space-y-[40px] font-poppins">
             <p>
-              As Gbenga's influence expanded, his commitment to societal
-              well-being flourished. An unwavering philanthropist in education,
-              social welfare, and the environment, he sculpted a legacy of
-              positive change. In recognition of his monumental impact on local
-              food production, agriculture, and youth employment in Oyo state,
-              Gbenga was conferred the title "Aare Kebimapalu of Ibadan Land" by
-              the esteemed Olubadan of Ibadan, Oba Saliu Akanmu Adetunji.
+            On an international platform, Gbenga was appointed an ECOWAS Youth Ambassador and 
+            awarded the prestigious Nelson Mandela Leadership Award by the ECOWAS Youth Council. 
+            His contributions to entrepreneurship and business improvement earned him an honorary 
+            D.Sc. in Entrepreneurship and Agricultural Development from the European American University, 
+            Commonwealth of Dominica.
             </p>
             <p>
-              Acknowledged on an international platform, Gbenga was appointed an
-              ECOWAS Youth Ambassador and honored with the prestigious Nelson
-              Mandela Leadership Award by the ECOWAS Youth Council. His
-              contributions to entrepreneurship and agricultural development
-              also led to the conferral of an honorary D.SC Entrepreneurship and
-              Agricultural Development by the European American University,
-              Commonwealth of Dominica.
+            Gbenga's academic pursuits reflect his multifaceted expertise. He holds a Diploma in Business 
+            and Management from the University of Liverpool and a Diploma in Sustainable Real Estate from
+             the University of Cambridge. His academic journey began at Obafemi Awolowo University, where 
+             he pursued Chemical Engineering and actively participated as a student member of the Nigerian 
+             Society of Chemical Engineers (NSChE). He also holds a Bachelor's degree in Business Administration 
+             from Gregory University, Uturu, Nigeria.
             </p>
             <p>
-              Gbenga's academic pursuits reflect his multifaceted expertise.
-              Armed with a Diploma in Business and Management from the
-              University of Liverpool, England, he honed his acumen further with
-              a Diploma in Sustainable Real Estate from the University of
-              Cambridge. Gbenga's academic journey began at the renowned Obafemi
-              Awolowo University, where he pursued Chemical Engineering while
-              actively participating as a student member of the Nigerian Society
-              of Chemical Engineers (NSChE).
+            Testament to his commitment to uplifting communities, Gbenga founded the Aare Gbenga Eyiolawi Foundation 
+            (formerly Titan Foundation) in 2018. In four years, the foundation has awarded scholarships to over 457 
+            primary school students, 125 secondary school students, and supports more than 100 students in Nigerian
+            tertiary institutions. The foundation's annual scholarship competition in Ibadan underscores Gbenga's 
+            dedication to education.{" "} 
             </p>
-
-            <p>
-              He holds a Bachelors degree in Business Administration from the
-              Gregory University, Uturu, Nigeria.{" "}
-            </p>
-
             <p>
               {" "}
-              Bearing testament to his enduring commitment to uplifting
-              communities, Gbenga founded the Aare Gbenga Eyiolawi Foundation
-              (previously Titan Foundation) in 2018. In the past four years
-              alone, the foundation has awarded short and long-term scholarships
-              to over 457 primary school students, 125 secondary school
-              students, and currently supports more than 100 students across
-              Nigerian tertiary institutions. The foundation's annual
-              scholarship competition in Ibadan stands as a hallmark of Gbenga's
-              enduring dedication to education.
-            </p>
-            <p>
-            Gbenga's story transcends borders ,captivating hearts worldwide, and epitomizing the essence of triumph against all odds as he was a speaker at the United Nations Economic Commision for Africa in 2021 alongside notable economic bigwigs in Africa.
+              Gbenga's story transcends borders, captivating hearts worldwide and epitomizing triumph against all odds. 
+              His inspirational journey was highlighted when he spoke at the United Nations Economic Commission for Africa
+               in 2021, alongside notable African economic leaders
             </p>
           </div>
         </div>
