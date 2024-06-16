@@ -55,16 +55,7 @@ function HomeProfile() {
             was underpinned by unwavering personal sacrifices and relentless
             perseverance.
           </p>
-          <p>
-            As Gbenga's influence expanded, his commitment to societal well-being flourished. 
-            A philanthropist dedicated to education, social welfare, and the environment,
-            he sculpted a legacy of positive change. Recognized for his impact on local food 
-            production, agriculture, and youth employment in Oyo State, Gbenga was honored
-            with the title "Aare Kebimapalu of Ibadan Land" by the Olubadan of Ibadan, Oba Saliu Akanmu Adetunji.
-
-          </p>
-         
-        </div>
+           </div>
       </div>
       <div>
         <div className="flex flex-col lg:flex-row mt-[49px] gap-[29px] lg:gap-[49px] px-[20px]">
@@ -74,6 +65,13 @@ function HomeProfile() {
             </div>
           </div>
           <div className="w-full lg:flex-1 text-white text-center lg:text-start flex flex-col space-y-[40px] font-poppins">
+            <p> 
+            As Gbenga's influence expanded, his commitment to societal well-being flourished. 
+            A philanthropist dedicated to education, social welfare, and the environment,
+            he sculpted a legacy of positive change. Recognized for his impact on local food 
+            production, agriculture, and youth employment in Oyo State, Gbenga was honored
+            with the title "Aare Kebimapalu of Ibadan Land" by the Olubadan of Ibadan, Oba Saliu Akanmu Adetunji.
+            </p>
             <p>
             On an international platform, Gbenga was appointed an ECOWAS Youth Ambassador and 
             awarded the prestigious Nelson Mandela Leadership Award by the ECOWAS Youth Council. 
