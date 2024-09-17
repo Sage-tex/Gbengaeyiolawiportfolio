@@ -10,7 +10,7 @@ function HomeProfile() {
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
           <div className="w-full">
             <p className=" text-white w-full text-center text-[25px] lg:text-[40px] font-[800] font-poppins">
-              INSPIRING JOURNEY OF <span className="text-[#AE8625]">GBENGA</span>
+             AUTOBIOGRAHY OF<span className="text-[#AE8625]">AARE GBENGA EYIOLAWI</span>
             </p>
           </div>
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
@@ -25,36 +25,110 @@ function HomeProfile() {
         </div>
         <div className="text-center lg:text-start text-white font-poppins text-[15px] lg:text-[20px] mt-[40px] lg:mt-[110px] space-y-[20px]">
           <p>
-          Meet Gbenga, a visionary leader whose unconventional journey ignites inspiration. 
-          As the founder who at different times, served as the Scrum Master, 
-          Head of Business and Business Improvement Director at Titan Group, 
-          a prominent conglomerate with interests in Financial Technology , 
-          Agricultural Technology, and Real Estate Technology, Gbenga embodies
-           resilience and unyielding determination.
+          Gbenga Eyiolawi, (a Chartered Manager with the Chartered 
+          Management Institute, United Kingdom) born on November 7,
+          1987, is a transformative Nigerian serial entrepreneur and 
+          visionary leader known for his groundbreaking contributions
+          across multiple sectors, including FinTech, AgriTech, and
+          PropTech. As the founder of Hybrid Improvements and Services,
+          with presence on 3 continents, he has made significant strides
+          in operational excellence and strategic business 
+          transformations.
+          </p>
+          Gbenga’s journey is as remarkable as it is inspiring. Raised in
+          Osogbo and spending his formative years in Ile-Ife, Nigeria, his
+          entrepreneurial spirit emerged early. At just 13, he began 
+          trading and hawking goods, quickly becoming known as "Baba-
+          Leku," the herbal maestro, for his role in connecting wholesale
+          herbal merchants with local retailers. This early experience laid 
+          the foundation for his future success.
           </p>
           <p>
-          Hailing from Osogbo but spending his early years in Ile-Ife, Nigeria, Gbenga's
-           origins starkly contrast with his current stature. His transformative journey 
-           began at 13 when he embraced entrepreneurship, navigating the bustling streets 
-           as a trader and hawker. Bridging the gap between wholesale herbal merchants and local retailers, 
-          he quickly earned the nickname "Baba-Leku," the herbal maestro, across the region.
+            Despite facing numerous challenges, Gbenga's resilience and 
+            adaptability propelled him from humble beginnings to become 
+            a respected leader in the corporate world. His path was marked
+            by personal sacrifices and a relentless drive to turn setbacks into 
+            opportunities for growth. His journey from a young street trader
+            to a distinguished professional in boardrooms and consulting 
+            roles is a testament to his unyielding determination.
           </p>
           <p>
-           Gbenga's path wasn't a straightforward rags-to-riches narrative but one marked by
-            consistent challenges, learning, and tenacity. Embracing failure as a growth 
-            opportunity, he integrated each setback into his learning curve, evolving from a 
-            young boy with a tray to a respected professional in corporate boardrooms while 
-            consulting for state governments, traditional institutions and becoming a regular
-            go-to person in Agritech for governors, ministers and royalty. 
-           This evolution was underpinned by personal sacrifices and relentless perseverance.
+           Gbenga's academic journey began at Obafemi Awolowo 
+            University, Ile-Ife, where he pursued Chemical Engineering
+            before his love for business altered his path. He later obtained a 
+            Bachelor's degree in Business Administration in 2015 and 
+            followed this with a Master of Business Administration (MBA) 
+            from Espam Formation University in 2018. His academic
+            achievements culminated in an honorary Doctor of Science
+            (D.Sc) degree in Entrepreneurship and Agricultural
+            Development from European American University in the
+            Commonwealth of Dominica.
           </p>
-          <p>
-            His trajectory transformed him from a young boy shouldering a tray
-            through Ile Ife's streets to a poised individual commanding respect
-            in the presence of royalty, ministers, and governors. This evolution
-            was underpinned by unwavering personal sacrifices and relentless
-            perseverance.
-          </p>
+           <p>
+           Gbenga's academic achievements include a Diploma in Business
+           and Management from the University of Liverpool, a Diploma in 
+           Sustainable Real Estate from the University of Cambridge. He is 
+           also a Certified Scrum Master, Project Management Professional 
+           and a Master Black Belt in Lean six sigma as well as a 
+           certification in Risk Management Assurance and Managing
+           safely by IOSH.
+           </p>
+            <p>
+            Leveraging his vast industry experience, Gbenga established 
+            Hybrid Improvements and Services to bring cutting-edge 
+            business improvement strategies to companies across the
+            globe. His firm has been pivotal in transforming businesses by 
+            enhancing operational efficiencies, driving down production 
+            costs, and increasing team productivity. 
+            </p>
+
+            <p>
+              In his role as a lead consultant, Gbenga has spearheaded
+              projects that reduced production downtime by an average of 
+              25%, cut waste by an average of 15%, and improved production 
+              efficiency by an average 20% across all companies that was 
+              serviced using Lean Six Sigma methodologies. 
+              His strategic guidance has led companies to achieve 100%
+              compliance with industry standards, enhancing quality control 
+              measures and drastically reducing product defects.
+            
+            </p>
+              <p>
+                Operating as the CEO and lead consultant, Gbenga manages
+                large-scale projects and has led teams across various industries, 
+                ranging from food manufacturing to Information Technology.
+                His consultancy's global reach has allowed him to implement
+                best practices in different operational environments, including
+                reducing waste, optimising labor, and introducing advanced
+                business intelligence tools like Power BI and Data Pine to ensure 
+                insightful decision-making.
+              </p>
+              <p>
+              In 2013, Gbenga expanded his entrepreneurial ventures by 
+              launching Knack International, an ICT company focused on 
+              providing cutting-edge technology solutions and consultancy 
+              services. Under his leadership, Knack International quickly 
+              established itself as a key player in the tech industry by 
+              producing Tablet PCs and mobile phones, delivering innovative
+              solutions and fostering digital transformation across various
+              sectors. 
+              </p>
+               <p>
+               In 2017, Gbenga made headlines with the launch of Peg & Red 
+               Casuals, a fashion business that combines contemporary design 
+               with traditional craftsmanship. In an interview about Peg & Red,
+               Gbenga emphasised his vision of blending fashion with
+               functionality, aiming to create stylish yet practical clothing
+               options for diverse audiences. The fashion venture reflects his
+               commitment to innovation and excellence in all his business 
+               endeavours. He emphasised that it is never too late to start
+               business. (Punch Newspaper)
+               </p>
+                
+
+                
+      
+        
            </div>
       </div>
       <div>
@@ -66,40 +140,103 @@ function HomeProfile() {
           </div>
           <div className="w-full lg:flex-1 text-white text-center lg:text-start flex flex-col space-y-[40px] font-poppins">
             <p> 
-            As Gbenga's influence expanded, his commitment to societal well-being flourished. 
-            A philanthropist dedicated to education, social welfare, and the environment,
-            he sculpted a legacy of positive change. Recognized for his impact on local food 
-            production, agriculture, and youth employment in Oyo State, Gbenga was honored
-            with the title "Aare Kebimapalu of Ibadan Land" by the Olubadan of Ibadan, Oba Saliu Akanmu Adetunji.
+            Gbenga is a trailblazer in agriculture and food processing in 
+            Southwest Nigeria, best known for his transformative work 
+            through Titan Farms and its flagship product, Titan Rice which 
+            he set up in 2019 as the Head of Business. 
+            Titan Rice quickly became a national sensation, recognised for 
+            its high quality and local production, which significantly 
+            contributed to food security and economic empowerment in 
+            Nigeria. The success of Titan Farms drew widespread attention
+            from various sectors, including political leaders, traditional
+            rulers, and business elites, positioning Gbenga as a key figure in 
+            the agricultural industry.
             </p>
             <p>
-            On an international platform, Gbenga was appointed an ECOWAS Youth Ambassador and 
-            awarded the prestigious Nelson Mandela Leadership Award by the ECOWAS Youth Council. 
-            His contributions to entrepreneurship and business improvement earned him an honorary 
-            D.Sc. in Entrepreneurship and Agricultural Development from the European American University, 
-            Commonwealth of Dominica.
+            To celebrate the farm’s success, Titan Farms organised a 
+            National Food Sustainability Summit during its anniversary, 
+            bringing together stakeholders from across Nigeria. The event
+            featured lawmakers from both state and federal levels, 
+            alongside a prestigious lineup of traditional rulers. Notable
+            attendees included HRH Alhaji Ado Bayero CFR, the Emir of 
+            Kano; Alhaji Yahaya Abubarkar CFR, the Etsu Nupe of Niger;
+            Ooni Adeyeye Enitan Ogunwusi CFR, the Ooni of Ife; Oba Saliu 
+            Adetunji, the Olubadan of Ibadan, and ten other revered
+            traditional rulers. 
+            The summit highlighted Gbenga’s leadership in promoting
+            agricultural sustainability and his vision for a food-secure
+            Nigeria, further cementing his influence at both the grassroots
+            and national levels.
             </p>
             <p>
-            Gbenga's academic pursuits reflect his multifaceted expertise. He holds a Diploma in Business 
-            and Management from the University of Liverpool and a Diploma in Sustainable Real Estate from
-             the University of Cambridge. His academic journey began at Obafemi Awolowo University, where 
-             he pursued Chemical Engineering and actively participated as a student member of the Nigerian 
-             Society of Chemical Engineers (NSChE). He also holds a Bachelor's degree in Business Administration 
-             from Gregory University, Uturu, Nigeria.
+            Before establishing Hybrid Improvements and Services, Gbenga
+            honed his expertise in business operations as the Head of 
+            Business and Director of Business Improvement at Titan Multi
+            Business Limited in Nigeria, where he oversaw a team of over
+            300 employees and increased market share by 20%. 
+
             </p>
             <p>
-            Testament to his commitment to uplifting communities, Gbenga founded the Aare Gbenga Eyiolawi Foundation 
-            (formerly Titan Foundation) in 2018. In four years, the foundation has awarded scholarships to over 457 
-            primary school students, 125 secondary school students, and supports more than 100 students in Nigerian
-            tertiary institutions. The foundation's annual scholarship competition in Ibadan underscores Gbenga's 
-            dedication to education.{" "} 
+            Here, he showcased his expertise in Financial Technology, 
+            Agricultural Technology, and Real Estate Technology. His work in 
+            these fields is driven by a passion for simplifying payments, 
+            enhancing agricultural productivity, and innovating in real
+            estate.
             </p>
             <p>
-              {" "}
-              Gbenga's story transcends borders, captivating hearts worldwide and epitomizing triumph against all odds. 
-              His inspirational journey was highlighted when he spoke at the United Nations Economic Commission for Africa
-               in 2021, alongside notable African economic leaders
+              His leadership acumen extends beyond operations, making
+              significant impacts in business turnaround strategies during 
+              times of crisis, a period that threw the company into 
+              controversies and distraught.
             </p>
+            <p>
+              His influence extends beyond the business realm into 
+              philanthropy. 
+              The Aare Gbenga Eyiolawi Foundation, founded in 2018, 
+              exemplifies his commitment to education and social welfare.
+              The foundation has awarded scholarships to over 457 primary
+              school students, 125 secondary school students, and supports
+              more than 100 tertiary students in Nigeria. This initiative
+              underscores Gbenga's dedication to empowering the next
+              generation.
+
+            </p>
+            <p>
+              Gbenga's impact has been recognised both locally and
+              internationally. 
+            </p>
+            <p>
+              In 2021, he was honoured with the prestigious Royal African
+              Youth Leadership Award by the Ooni of Ife for his contributions
+              to youth empowerment and leadership in Africa. 
+              In recognition of his community-focused initiatives and
+              commitment to eradicating hunger, Gbenga was bestowed the
+              chieftaincy title of Aare Kebimapalu (Anti-hunger Marshal) of 
+              Ibadan-land by the Olubadan of Ibadan, a testament to his
+              relentless efforts in fostering economic growth and social
+              development.
+              These are amongst other numerous awards from international 
+              bodies.
+            </p>
+            <p>
+              His inspirational story was further highlighted when he spoke at 
+              the United Nations Economic Commission for Africa in 2021,
+              sharing his vision and experience with prominent African 
+              economic leaders.
+            </p>
+            <br>
+              <p>
+                Gbenga holds a range of certifications and affiliations that
+                reflect his expertise and leadership in the field.
+
+              </p>
+              <p>
+                OTHER CERTIFICATIONS 
+
+                - Certified in HACCP Level 3
+                - Certified in Food Allergen Awareness
+              </p>
+            
           </div>
         </div>
         <div className="mt-[110px] flex items-center justify-center">
