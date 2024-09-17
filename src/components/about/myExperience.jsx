@@ -1,4 +1,4 @@
-/*** import { useState } from "react";
+ import { useState } from "react";
 import { AiOutlineMinus, AiOutlinePlus } from "react-icons/ai";
 
 
@@ -11,7 +11,7 @@ function MyExperience() {
     setEsp(i);
   };
   return (
-    <div className="p-[20px] lg:p-[60px]">
+  /*  <div className="p-[20px] lg:p-[60px]">
       <div className="flex items-center space-x-[10px]">
         <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
         <div className="w-full">
@@ -161,4 +161,4 @@ const experienceArr = [
   },
 ];
 
-export default MyExperience; **\
+export default MyExperience; *\
