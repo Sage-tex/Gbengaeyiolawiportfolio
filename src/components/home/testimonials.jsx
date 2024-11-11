@@ -40,7 +40,7 @@ function Testimonials() {
             <div className="h-[100px] lg:h-[140px] w-[100px] lg:w-[140px] border rounded-full">
               <img src={carousel3} className="h-full w-full rounded-full object-cover" alt="" />
             </div>
-            <p className="mt-[40px] font-poppins text-[16px] lg:text-[25px] text-center">
+            <p className="mt-[40px] font-poppins text-center">
             Traditional rulers should support Gbenga to ensure success in his contribution to the development of the country, stressing that his contributions have provided job opportunities for the youths and as well providing food for the masses.
 
             </p>
@@ -61,7 +61,7 @@ function Testimonials() {
             <div className="h-[100px] lg:h-[140px] w-[100px] lg:w-[140px] border rounded-full">
             <img src={carousel2} className="h-full w-full rounded-full object-cover" alt="" />
             </div>
-            <p className="mt-[40px] font-poppins text-[16px] lg:text-[25px] text-center">
+            <p className="mt-[40px] font-poppins text-center">
               
 Nigerian youths need to take a cue from Gbenga who is a youth, and engage in local food production through agricbusiness, this will make our country a food Independent nation, I mean, the process will put our nation on the food production list, and with that, there will be food for us all in abundance
 
@@ -85,7 +85,7 @@ We also give our collective support as traditional rulers from the Northern part
             <div className="h-[100px] lg:h-[140px] w-[100px] lg:w-[140px] border rounded-full">
             <img src={carousel1} className="h-full w-full rounded-full object-cover" alt="" />
             </div>
-            <p className="mt-[40px] font-poppins text-[16px] lg:text-[25px] text-center">
+            <p className="mt-[40px] font-poppins text-center">
             "Some of our youths, like Gbenga here are so serious, and we have to support them to thrive in their legitimate businesses. We have to give them all the support they need to succeed in their businesses.”
 
 "I commend Gbenga and a couple of others across the country for standing up to the challenges in the competitive market.”

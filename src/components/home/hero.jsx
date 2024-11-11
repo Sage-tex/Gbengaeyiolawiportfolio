@@ -5,7 +5,7 @@ function HomeHero() {
   return (
     <div className="relative background ">
       <div className=" text-white p-[20px] lg:p-[40px] mt-[30px] lg:mt-0">
-        <p className="text-[30px] lg:text-[150px] leading-[28px] lg:leading-[140px] font-[800] font-poppins text-center lg:text-start">
+        <p className="text-[30px] lg:text-[100px] leading-[28px] lg:leading-[140px] font-[800] font-poppins text-center lg:text-start">
           <span className="text-[#AE8625]">GBENGA</span>{" "}
           <span className="text-[#FFFFFF]">EYIOLAWI</span>
         </p>
