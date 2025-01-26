@@ -1,5 +1,9 @@
 import hometalk from "../../assets/hometalk.svg";
 import grad from "../../assets/grad.svg";
+import punch from "../../assets/Punch-New-Logo.png"
+import uneca from "../../assets/uneca.png"
+import von from "../../assets/von.png"
+import businesselite from "../../assets/businesselite.png"
 
 import { Link } from "react-router-dom";
 function HomeProfile() {
@@ -249,6 +253,17 @@ function HomeProfile() {
           >
             See more about myself
           </Link>
+        </div>
+
+        <div className="pt-20">
+          <marquee>
+          <div className="flex h-32 justify-evenly">
+          <img src={punch} />
+          <img src={uneca} />
+          <img src={von} />
+          <img src={businesselite} />
+          </div>
+          </marquee>
         </div>
       </div>
    </>
