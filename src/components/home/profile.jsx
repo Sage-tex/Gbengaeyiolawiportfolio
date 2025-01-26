@@ -4,7 +4,8 @@ import grad from "../../assets/grad.svg";
 import { Link } from "react-router-dom";
 function HomeProfile() {
   return (
-    <div className="pt-[80px] bg-black pb-[40px]">
+   <>
+     <div className="pt-[80px] bg-black pb-[40px]">
       <div className="px-[20px] lg:px-[40px]">
         <div className="flex items-center space-x-[10px]">
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
@@ -23,7 +24,8 @@ function HomeProfile() {
             className="h-[200px] lg:h-[500px] object-cover  w-full"
           />
         </div>
-        <div className="text-center lg:text-start text-white font-poppins text-[15px] lg:text-[20px] mt-[40px] lg:mt-[110px] space-y-[20px]">
+        <div>
+        <p className="text-center lg:text-start text-white font-poppins mt-[40px] lg:mt-[110px] space-y-[20px]">
           <p>
           Gbenga Eyiolawi, (a Chartered Manager with the Chartered 
           Management Institute, United Kingdom) born on November 7,
@@ -35,6 +37,7 @@ function HomeProfile() {
           in operational excellence and strategic business 
           transformations.
           </p>
+          <p>
           Gbenga’s journey is as remarkable as it is inspiring. Raised in
           Osogbo and spending his formative years in Ile-Ife, Nigeria, his
           entrepreneurial spirit emerged early. At just 13, he began 
@@ -126,8 +129,8 @@ function HomeProfile() {
                </p>
                 
 
-                
-      
+                </p>
+      </div>
         
            </div>
       </div>
@@ -224,7 +227,7 @@ function HomeProfile() {
               sharing his vision and experience with prominent African 
               economic leaders.
             </p>
-            <br>
+            <br />
               <p>
                 Gbenga holds a range of certifications and affiliations that
                 reflect his expertise and leadership in the field.
@@ -239,7 +242,7 @@ function HomeProfile() {
             
           </div>
         </div>
-        <div className="mt-[110px] flex items-center justify-center">
+        <div className="mt-[110px] flex items-center justify-center" >
           <Link
             to="/about"
             className="bg-[#AE8625] p-[20px_32px] text-white font-poppins"
@@ -248,7 +251,7 @@ function HomeProfile() {
           </Link>
         </div>
       </div>
-    </div>
+   </>
   );
 }
 
