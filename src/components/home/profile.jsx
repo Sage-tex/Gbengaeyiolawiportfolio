@@ -20,7 +20,6 @@ function HomeProfile() {
           </div>
           <div className="hidden lg:flex h-[3px] bg-[#FFFFFF] w-full"></div>
         </div>
-
         <div className="mt-[30px] lg:mt-[81px] w-full ">
           <img
             src={hometalk}
